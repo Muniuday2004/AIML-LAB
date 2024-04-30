@@ -1,1 +1,2 @@
 # AIML-LAB
+lab01("")
