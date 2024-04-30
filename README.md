@@ -1,2 +1,11 @@
 # AIML-LAB
-[lab01]("https://github.com/Muniuday2004/AIML-LAB/blob/main/lab01.ipynb")
+[Lab01](https://github.com/Muniuday2004/AIML-LAB/blob/main/lab01.ipynb)
+[Lab02](https://github.com/Muniuday2004/AIML-LAB/blob/main/lab02.ipynb)
+[Lab03](https://github.com/Muniuday2004/AIML-LAB/blob/main/Lab03-AIML.ipynb)
+[Lab04](https://github.com/Muniuday2004/AIML-LAB/blob/main/Lab-04.ipynb)
+[Lab05](https://github.com/Muniuday2004/AIML-LAB/blob/main/LAb.05.ipynb)
+[Lab06](https://github.com/Muniuday2004/AIML-LAB/blob/main/Lab-06.ipynb)
+[Lab07](https://github.com/Muniuday2004/AIML-LAB/blob/main/LAB_07.ipynb)
+[Lab08](https://github.com/Muniuday2004/AIML-LAB/blob/main/Lab08-Decision_Tree%20(2).ipynb)
+[Lab09](https://github.com/Muniuday2004/AIML-LAB/blob/main/Lab09-RF_Classification.ipynb)
+[Lab10](https://github.com/Muniuday2004/AIML-LAB/blob/main/Lab10-KMeans.ipynb)
